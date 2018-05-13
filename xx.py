@@ -11,7 +11,7 @@ def out(a):
     print(a, type(a))
 
 
-out('123')
+out('xxx123')
 out(123445)
 
 a = [i for i in range(10) if i % 2 == 0]
