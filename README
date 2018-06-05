@@ -1,5 +1,7 @@
-read me
-modify on branch
-test mod
-modify on branch iss1
+python error 
+when use pip,'No module named _internal' error happend
 
+do as fllow:
+For pip2.7, you can at first curl https://bootstrap.pypa.io/get-pip.py -o get-pip.py, then python2.7 get-pip.py --force-reinstall to reinstall pip.
+
+Problem solved. Also works for python3.
